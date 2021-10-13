@@ -1,0 +1,29 @@
+.row{
+    margin: auto;
+    background-color: rgb(213, 252, 236);
+}
+label{
+    display: inline-block;
+    width: 10rem;
+}
+.headings{
+    text-align: center;
+}
+.btn{
+    margin: 0 20rem;
+}
+.desc{
+    margin-left: 10.2rem;
+}
+.desc2{
+    margin-left: -5rem;
+}
+.desc3{
+    margin-left: 3rem;
+}
+.areaCode{
+    width: 4rem;
+}
+.dash{
+    width: auto;
+}
